@@ -7,7 +7,7 @@ const App = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello <code>I am</code> Pham Tien Anh - 22110282 123123
+          Hello <code>I am</code> Pham Tien Anh - 22110282
         </p>
         <p>
           I am a <code>Frontend Developer</code>
